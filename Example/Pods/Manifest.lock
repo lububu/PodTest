@@ -1,0 +1,16 @@
+PODS:
+  - PodT (0.1.0)
+
+DEPENDENCIES:
+  - PodT (from `../`)
+
+EXTERNAL SOURCES:
+  PodT:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PodT: 9582d91f6796cdffc77994556632e3c6af5f5bfd
+
+PODFILE CHECKSUM: 0c485000544dc3a56c4a2d9be8fb39f93a3cc595
+
+COCOAPODS: 1.10.1
